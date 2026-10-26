@@ -1,4 +1,4 @@
-Privacy Policy for InstaCore
+# Privacy Policy for InstaCore
 
 Effective Date: 26.10.2026
 
