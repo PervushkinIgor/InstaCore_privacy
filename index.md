@@ -31,4 +31,4 @@ If you have any questions about this Privacy Policy, please contact the develope
 
 Email: igorglebsky@gmail.com
 
-GitHub: [Link to your repository]
+GitHub: https://github.com/PervushkinIgor/InstaCore_privacy
